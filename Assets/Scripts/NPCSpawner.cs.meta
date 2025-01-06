@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c3f7a8cdb879b43d09354a1ea311813a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - hostileNPC: {fileID: 1293747902861475902, guid: 8f1452a04005a4175a43365757e4f2e3, type: 3}
+  - neutralNPC: {fileID: 5073401713282324725, guid: bfc4d3c0f34d34a798bb8bfc837ad025, type: 3}
+  - passiveNPC: {fileID: 8286415372668093163, guid: f519d14b4a86841e78ab324cd7689c0f, type: 3}
+  - mobCount: {fileID: 11400000, guid: 955ed858b48504845a0d389c701890e3, type: 2}
+  - mobCap: {fileID: 11400000, guid: 6543fd1081f5d4ec4882ca6d1c4e5e1a, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
